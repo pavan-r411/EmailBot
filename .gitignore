@@ -11,6 +11,7 @@ yarn-error.log
 
 # Credentials
 Cred.yaml
+emailList
 
 # IDE
 .idea/
